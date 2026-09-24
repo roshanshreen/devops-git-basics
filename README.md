@@ -1,0 +1,2 @@
+Frontend Developer with 2+ years of experience specializing in Angular, TypeScript, JavaScript, and responsive UI development. 
+Experienced in API integration, reusable components, debugging, and Agile development, with a strong interest in expanding into full-stack development.
